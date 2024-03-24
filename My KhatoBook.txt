@@ -1,0 +1,23 @@
+Users from the dashboard can navigate to the item screen using the navigation in the bottom sheet as seen in the
+dashboard. Item screen has the following functionality.
+● List of items that the business owner has added to his company.
+● He can add & update the items.
+● He can see the current stock of the item and see the details of the individual item like MRP, tax rate, images,
+etc.
+● He can adjust the stock of an item by using the adjustment option provided on the left side of the item on the listing screen.
+● Items of an inventory can be of type product or service. For example: ‘Rail Ticket Booking’ is a service type of item while ‘Biscuit’ is a product type of item.
+● Users can also add sales and purchase prices of an item from the item creation screen.
+
+
+Write functional and UI test cases
+Tasks:
+● As a Quality Engineer of this module, you need to test the flow of the item screen and list the manual test
+cases which you will check for the above-mentioned flow.
+● Test cases should include functional as well as UI test cases.
+● 1 point awarded for each of the functional cases and 0.5 points will be awarded for the UI cases.
+
+
+Good to have:
+● Listing extra flows apart from above mentioned which you discovered for the item screens.
+Submission Instructions:
+Write your test cases and share an excel sheet.
